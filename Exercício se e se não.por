@@ -12,6 +12,6 @@ programa {
     escreva("está apto a votar")
 
     senao
-    escreva("está com febre")
+    escreva("Não está apto a votar")
   }
 }
